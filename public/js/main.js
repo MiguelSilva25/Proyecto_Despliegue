@@ -5,6 +5,10 @@ function procesarDatos() {
   let i = 0;
   while (i < 10) {
     console.log("Procesando dato " + i);
+    contador++;
+    i++;
   }
+
   document.getElementById("contador").textContent = contador;
+  
 }
