@@ -8,6 +8,7 @@ $titulo = "Proyecto Intermodular DAW2";
   <meta charset="UTF-8">
   <title><?= $titulo ?></title>
   <script src="js/main.js"></script>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <h1><?= $titulo ?></h1>
